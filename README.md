@@ -3,5 +3,5 @@
 ### Brice Collilieux
 * html
 * css
-  *Bootstrap
-*javascript
+ * Bootstrap
+* javascript
